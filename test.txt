@@ -1,0 +1,5 @@
+5 degrees C is -17.2 degrees F
+6 degrees C is -16.7 degrees F
+7 degrees C is -16.1 degrees F
+8 degrees C is -15.8 degrees F
+9 degrees C is -15.1 degrees F
